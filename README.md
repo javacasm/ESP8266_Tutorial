@@ -29,8 +29,9 @@ Realmente el chip tiene más GPIO pero no están conectados con pines, si te atr
 
 ## Programando
 
-![programando](https://i.stack.imgur.com/rtKQE.png)
+![programando](http://www.prometec.net/wp-content/uploads/2015/07/set1-1024x254.jpg)
 
+Conectamos GPIO0 a GND y encendemos
 
 ## conexión
 
@@ -46,6 +47,14 @@ Otro adaptador
 [Tutorial de conexiones](http://www.instructables.com/id/How-to-use-the-ESP8266-01-pins/)
 
 [Distintos tipos de conexiones](http://www.forward.com.au/pfod/ESP8266/GPIOpins/index.html)
+
+## Ejemplos
+
+[Blink 0 y 2]
+
+[webserver]
+
+![webserver](./images/WEbServer.png)
 
 ## Proyectos
 
