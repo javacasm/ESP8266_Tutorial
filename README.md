@@ -2,10 +2,13 @@
 
 ![esp8266](http://rubensm.com/wp-content/uploads/2015/01/esp8266-300x225.jpg)
 
+Se trata de la placa más pequeña, y muy capaz pero necesitamos una conexión má compleja.
+
+Recomendaría empezar por el nodeMCU o alguna de las otras placas más fáciles de usar
+
+## instalación
+
 En primer lugar tenemos que añadir las placas de tipo ESP al entorno arduino
-
-Es el ESP01
-
 
 
 
@@ -38,7 +41,13 @@ Para conectarlo a una protoboard
 Otro adaptador
 ![adaptador2 ](http://img.dxcdn.com/productimages/sku_404644_1.jpg)
 
+[tutorial de uso](http://hackaday.com/2015/03/18/how-to-directly-program-an-inexpensive-esp8266-wifi-module/)
 
 [Tutorial de conexiones](http://www.instructables.com/id/How-to-use-the-ESP8266-01-pins/)
 
 [Distintos tipos de conexiones](http://www.forward.com.au/pfod/ESP8266/GPIOpins/index.html)
+
+## Proyectos
+
+
+[controla leds RGB desde tu reloj](https://www.packtpub.com/books/content/using-your-smart-watch-control-networked-leds?utm_source=Sentori&utm_medium=Email&utm_campaign=Create+Dispatch+-+Mid+May+15)
