@@ -37,3 +37,8 @@ Para conectarlo a una protoboard
 
 Otro adaptador
 ![adaptador2 ](http://img.dxcdn.com/productimages/sku_404644_1.jpg)
+
+
+[Tutorial de conexiones](http://www.instructables.com/id/How-to-use-the-ESP8266-01-pins/)
+
+[Distintos tipos de conexiones](http://www.forward.com.au/pfod/ESP8266/GPIOpins/index.html)
