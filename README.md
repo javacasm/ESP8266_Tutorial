@@ -23,6 +23,17 @@ Realmente el chip tiene más GPIO pero no están conectados con pines, si te atr
 
 ![más pines](http://www.unrobotica.com/ESP8266/tmp4fd3.jpg)
 
+
 ## Programando
 
 ![programando](https://i.stack.imgur.com/rtKQE.png)
+
+
+## conexión
+
+Para conectarlo a una protoboard
+
+![adaptador](http://www.unrobotica.com/ESP8266/ESP82664.jpg)
+
+Otro adaptador
+![adaptador2 ](http://img.dxcdn.com/productimages/sku_404644_1.jpg)
