@@ -26,6 +26,9 @@ Realmente el chip tiene más GPIO pero no están conectados con pines, si te atr
 
 ![más pines](http://www.unrobotica.com/ESP8266/tmp4fd3.jpg)
 
+[Pinout del ESP01](http://henrysbench.capnfatz.com/henrys-bench/arduino-projects-tips-and-more/esp8266-esp-01-pin-outs-and-schematics/)
+
+![pinout](https://i2.wp.com/henrysbench.capnfatz.com/wp-content/uploads/2016/12/ESP01-Schematic.png?resize=768%2C764)
 
 ## Programando
 
